@@ -49,7 +49,7 @@
     "esbuild-plugin-vue": "^0.2.4",
     "tsup": "^6.2.1",
     "vite": "^2.9.14",
-    "vite-node": "^0.6.3"
+    "vite-node": "^0.21.0"
   },
   "devDependencies": {
     "unbuild": "^0.7.6"
