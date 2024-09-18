@@ -48,7 +48,7 @@
     "cac": "^6.7.12",
     "esbuild-plugin-vue": "^0.2.4",
     "tsup": "^6.2.1",
-    "vite": "^2.9.14",
+    "vite": "^3.2.11",
     "vite-node": "^0.6.3"
   },
   "devDependencies": {
